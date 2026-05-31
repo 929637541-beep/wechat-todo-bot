@@ -1,10 +1,5 @@
 {
   "rewrites": [
     { "source": "/wx", "destination": "/api/wx" }
-  ],
-  "functions": {
-    "api/wx.js": {
-      "bodyParser": false
-    }
-  }
+  ]
 }
