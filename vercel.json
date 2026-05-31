@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/wx", "destination": "/api/wx" }
+  ]
+}
